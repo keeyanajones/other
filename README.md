@@ -1,5 +1,6 @@
 # other
-## Other Extension
+![Other Logo](other.png)
+
 
 ### IN DEVELOPMENT
 ### VERSION 0.0.1
