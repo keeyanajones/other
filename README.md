@@ -1,42 +1,31 @@
 # other
-
-## what does it do
-Extension for Twitch.tv, the world's leading live streaming platform for gamers and the things we love. 
-
-## what is it
-- other
-- CREATED : Apr 15, 2018 (2014)
-
-## technology used
-TypeScript, JavaScript
-
-## ambition of project
-keep track of my livestream works with Twitch
-
-## stage
-IN DEVELOPMENT
-
-## known issues / thing not properly done 
+Any other collection of instructions and data that tell a computer or device how to work, AI, ML, and 100 days of code challenge.  
 
 ## Table of Content
-- what does it do 
 - what is it
 - technology used
 - ambition of project
 - stage
-- known issues/ thing not properly done
 - quick start
 - status
 - what's included
-- bug and feature request
-- running documentation locally
-- pervious releases
-- contributing
-- community 
-- versioning
 - creators
-- thanks/backers/sponsors
 - copyright and license
+
+
+## what is it
+- other
+- CREATED : Apr 15, 2018 (2014)
+- MODIFIED : Nov 29, 2022
+
+## technology used
+Various
+
+## ambition of project
+Various
+
+## stage
+IN DEVELOPMENT
 
 ## quick start
 Quick setup — if you’ve done this kind of thing before
@@ -72,24 +61,10 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 - STATUS : LOCAL TEST 6/7/2020 04:49:47 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC))
 
 ## what's included
-Twitch Extension
-    
-## bug and feature request
-
-## running documentation locally
-
-## previous releases
-
-## contributing
-
-## community
- 
-## versioning
+Various
 
 ## creators
  - 2020 Keeyana Jones
-
-## thanks/backers/sponsors
 
 ## copyright and license 
  - MIT License Copyright (c) 2020 Keeyana Jones
